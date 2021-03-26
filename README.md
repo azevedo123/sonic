@@ -1,4 +1,4 @@
-# sonic<!DOCTYPE HTML>
+# sonic
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
@@ -71,5 +71,4 @@ a{
 
 
 
-</body>
 <html>
