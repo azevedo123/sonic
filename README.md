@@ -29,7 +29,7 @@ p{
   color:#4682B4;
   }
 a{
-  margin:0.8em;
+  margin:1.0em;
   font-size:1.3em;
   color:white;
   }
