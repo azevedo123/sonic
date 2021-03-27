@@ -19,12 +19,12 @@ h1{
    text-align:center;
    }
 h2{
-   margin:1.5em;
+   margin:1.2em;
    font-size:1.8em;
    color:#4682B4;
    }
 p{
-  margin:1.5em;
+  margin:1.2em;
   font-size:1.7em;
   color:#4682B4;
   }
