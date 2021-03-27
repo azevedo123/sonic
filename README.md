@@ -10,7 +10,6 @@ body{
      boder:none;
      font:11px/1.5 verdana,andalus,helvetica,sans-serif;
      background-color:#87CEEB;
-     text aligm:center;
     }
 h1{
    margin:0;
