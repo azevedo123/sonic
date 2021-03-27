@@ -20,16 +20,16 @@ h1{
    }
 h2{
    margin:1.5em;
-   font-size:1.8em;
+   font-size:1.5em;
    color:#4682B4;
    }
 p{
-  margin:1.5em;
+  margin:0.8em;
   font-size:1.7em;
   color:#4682B4;
   }
 a{
-  margin:1.2em;
+  margin:0.8em;
   font-size:1.3em;
   color:white;
   }
