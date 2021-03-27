@@ -30,7 +30,7 @@ p{
   }
 a{
   margin:1.5em;
-  font-size:1.7em;
+  font-size:1.5em;
   color:white;
   }
 
