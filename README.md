@@ -24,7 +24,7 @@ h2{
    color:#4682B4;
    }
 p{
-  margin:1.2em;
+  margin:0;
   font-size:1.7em;
   color:#4682B4;
   }
