@@ -40,6 +40,7 @@ a{
 <font face="andalus">
 <a href="#personagem">ir para personagem</a>
 <a href="#jogos">ir para jogos</a>
+<a name="inicio"></a>
 <h1>a história do sonic</h1>
 <img src="https://c.tenor.com/gik4zXxnBwUAAAAj/sonic-sonic-the-hedgehog.gif" alt="Sonic Sonic The Hedgehog Sticker - Sonic Sonic The Hedgehog Gaming Stickers" width="84" height="84" style="background-color: unset; margin: 8px;">
 <h2>A origem de Sonic</h2>
@@ -65,6 +66,6 @@ a{
 <h2>Sonic Heroes (2003)</h2>
 <p>Primeiro título da franquia a ser lançado para diversas plataformas simultaneamente, Sonic Heroes contou com gráficos renovados em sua estreia na era do PlayStation 2 e Xbox. Os jogadores controlavam o ouriço azul, além de Knuckles, Tails, Shadow e outros personagens da série. O game estava disponível para Xbox, PS2, Nintendo GameCube e PC (Windows).</p>
 <center><img alt="Sonic Classic Heroes | Play game online!" class="n3VNCb" src="https://playclassic.games/wp-content/uploads/2019/03/sonic-classic-heroes.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 480px; height: 300px; margin: 0px;"></center>
-
+<a href="#inicio">ir para tela inicial</a>
 
 	
