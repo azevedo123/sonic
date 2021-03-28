@@ -40,7 +40,7 @@ a{
 <font face="andalus">
 <a href="#personagem">ir para personagem</a>
 <a href="#jogos">ir para jogos</a>
-<h1>A HISTORIA DO SONIC</h1>
+<h1>a história do sonic</h1>
 <img src="https://c.tenor.com/gik4zXxnBwUAAAAj/sonic-sonic-the-hedgehog.gif" alt="Sonic Sonic The Hedgehog Sticker - Sonic Sonic The Hedgehog Gaming Stickers" width="84" height="84" style="background-color: unset; margin: 8px;">
 <h2>A origem de Sonic</h2>
 <p>Foi de Yuki que veio a ideia de colocar a velocidade como foco da história. Segundo ele, sua vontade era que outros jogos fossem mais divertidos e que os personagens conseguissem se mover mais rápido. E, por causa desse desejo, Yuki programou, praticamente sozinho, um novo método de rolar o fundo da tela para dar ao jogo uma velocidade maior.</p>
