@@ -18,18 +18,18 @@ h1{
    text-align:center;
    }
 h2{
-   margin:1.5em;
+   margin:0;
    padding:14px;
    font-size:12px;
    color:#4682B4;
    }
 p{
-  margin:0.8em;
+  margin:0;
   font-size:12px;
   color:#4682B4;
   }
 a{
-  margin:1.0em;
+  margin:0;
   font-size:12px;
   color:white;
   }
