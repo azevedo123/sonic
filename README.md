@@ -13,24 +13,24 @@ body{
 h1{
    margin:0;
    padding:15px
-   font-size:1.8em;
+   font-size:12px;
    color:#4682B4;
    text-align:center;
    }
 h2{
    margin:1.5em;
    padding:14px;
-   font-size:1.7em;
+   font-size:12px;
    color:#4682B4;
    }
 p{
   margin:0.8em;
-  font-size:1.5em;
+  font-size:12px;
   color:#4682B4;
   }
 a{
   margin:1.0em;
-  font-size:1.4;
+  font-size:12px;
   color:white;
   }
 
