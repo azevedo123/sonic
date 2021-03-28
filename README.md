@@ -8,28 +8,27 @@ body{
      margin:0;
      padding:0;
      boder:none;
-     font:11px/1.5 verdana,andalus,helvetica,sans-serif;
      background-color:#87CEEB;
     }
 h1{
    margin:0;
-   font-size:2.0em;
+   font-size:12px;
    color:#4682B4;
    text-align:center;
    }
 h2{
    margin:1.5em;
-   font-size:1.5em;
+   font-size:12px;
    color:#4682B4;
    }
 p{
   margin:0.8em;
-  font-size:1.7em;
+  font-size:12px;
   color:#4682B4;
   }
 a{
   margin:1.0em;
-  font-size:1.3em;
+  font-size:12px;
   color:white;
   }
 
