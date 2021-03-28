@@ -6,18 +6,20 @@
 <style>
 body{
      margin:0;
-     padding:12px;
+     padding:13px;
      boder:none;
      background-color:#87CEEB;
     }
 h1{
    margin:0;
+   padding:15px
    font-size:12px;
    color:#4682B4;
    text-align:center;
    }
 h2{
    margin:1.5em;
+   padding:14px;
    font-size:12px;
    color:#4682B4;
    }
