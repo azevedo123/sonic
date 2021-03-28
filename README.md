@@ -12,7 +12,7 @@ body{
     }
 h1{
    margin:0;
-   padding:15px
+   padding:15px;
    font-size:12px;
    color:#4682B4;
    text-align:center;
