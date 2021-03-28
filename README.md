@@ -15,7 +15,6 @@ h1{
    padding:15px;
    font-size:12px;
    color:#4682B4;
-   text-align:center;
    }
 h2{
    margin:0;
