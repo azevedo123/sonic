@@ -37,6 +37,6 @@ a{
 </style>
 </Head>
 <body>
-	<h1>MÃE DO MARIO</h1>
-	<img src="hipo.jpg">
+	<div aling="center"><h1>MÃE DO MARIO</h1><div>
+		<center><img src="hipo.jpg"></center>
 	
